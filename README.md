@@ -3,7 +3,7 @@
 ## Login SSH
 
 ```bash
-ssh sandika@192.168.1.14
+ssh sandika@192.168.1.16
 ```
 
 ```bash
@@ -249,7 +249,7 @@ ls -la /var/www/html
 ## Pengujian FTP dari Windows
 
 ```text
-ftp://192.168.1.14
+ftp://192.168.1.16
 ```
 
 Login:
@@ -265,12 +265,4 @@ Password : rian12345
 
 ```bash
 ls -la /var/www/html
-```
-
-```text
-total 176
-drwxrwxrwx. 2 ftpuser ftpuser     46 May 28 03:57 .
-drwxr-xr-x. 3 root    root        18 May 28 02:33 ..
--rwxrwxrwx. 1 ftpuser ftpuser     29 May 28 03:54 test_ftp.txt
--rw-r--r--. 1 ftpuser ftpuser 175733 May 28 03:57 Tugas_03.pdf
 ```
